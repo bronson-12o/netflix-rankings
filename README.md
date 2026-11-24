@@ -1,3 +1,6 @@
+> **This project is now part of [Analytics Showcase](https://github.com/bronson-12o/analytics-showcase/tree/main/tableau/netflix-rankings).**
+> The case study, screenshots, attribution and original history are preserved there. This repository is retained as a read-only historical copy.
+
 # Netflix Top 10 ranking analysis
 
 Tableau coursework exploring which titles rise in the rankings and which stay there.
